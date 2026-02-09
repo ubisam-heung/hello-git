@@ -64,7 +64,6 @@ git remote set-url origin https://github.com/ubisam-heung/hello-git
 3. 메시지 입력 후 Commit
 4. Push 또는 Sync
 
-이미지 필요: "VS Code Source Control 뷰에서 커밋/푸시하는 화면"
 ![commit](images/commit.png)
 ![push](images/push.png)
 
